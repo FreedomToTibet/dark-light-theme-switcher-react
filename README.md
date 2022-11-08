@@ -1,1 +1,1 @@
-# dark-light-theme-switcher-react
+#### Simple switcher. Passing a click event from one component to another and changing the interface using classes.
